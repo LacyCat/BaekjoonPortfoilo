@@ -1,0 +1,5 @@
+1줄 이상의 String은 StringBuilder로
+많은 줄을 출력한다면 StringBuilder + BufferedWriter(OutputStreamWriter(System.out))
+Scanner 대신 BufferedReader 사용
+split() 대신 StringTokenizer 사용 (단순 공백 분리 시)
+출력이 4줄 이하면 System.out.println() 그냥 써도 OK
