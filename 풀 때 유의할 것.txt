@@ -3,3 +3,30 @@
 Scanner 대신 BufferedReader 사용
 split() 대신 StringTokenizer 사용 (단순 공백 분리 시)
 출력이 4줄 이하면 System.out.println() 그냥 써도 OK
+-- 변수 할당맵 --
+a - 배열(array), 입력값 A
+b - 입력값 B
+c - 테스트 케이스 개수(case/count)
+d - 찾을 데이터(data), 특정 값
+e - (미사용)
+f - (미사용, 2480에서 first 주사위 값으로 1회 사용)
+g - (미사용)
+h - 시간(hour)
+i - 반복문 인덱스 (for문 1단계) (자동할당)
+j - 반복문 인덱스 (for문 2단계) (자동할당)
+k - 횟수/반복 횟수 (count) ← 신규 할당
+l - (미사용, 10951/10952에서 line으로 1회 사용, 숫자 1과 혼동 주의)
+m - 분(minute), N-M 쌍의 두 번째 수
+n - 개수(number), 배열 크기
+o - (미사용, 숫자 0과 혼동 주의)
+p - 가격(price)
+q - (미사용)
+r - 결과(result), 합계
+s - 문자열(string), 점수(score)
+t - 합계(total), 임시값(temp)
+x - X좌표, 특정 값 X, foreach 에서 x
+y - Y좌표, 특정 값 Y, foreach 중첩문 시 y
+z - (미사용)
+----
+문제에서 변수의 이름이 직접적으로 주어졌는데,
+그것이 내가 선호하는 변수명 리스트에 없는 것은 그대로 씀
